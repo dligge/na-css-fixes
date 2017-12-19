@@ -24,3 +24,26 @@ li.row {
 margin-bottom: 0px !important;
 padding: 0px 0px 0px 0;
 }
+
+.post {
+padding: 0px 0px 0px 0px;
+margin-bottom: 5px;
+}
+
+.postprofile {
+width: 150px;
+}
+
+.postprofile_Left .postbody {
+float: left;
+}
+
+.postbody .content {
+padding-top: 0px;
+}
+
+.postcontent_footer {
+margin-top: 0px;
+padding-top: 0px;
+text-align: right;
+}
