@@ -8,7 +8,7 @@ line-height: 1;
 }
 
 a.topictitle {
-font-size: 13px;
+  font-size: 14px;
 }
 
 ul.topics li.row {
@@ -45,4 +45,20 @@ padding-top: 0px;
 margin-top: 0px;
 padding-top: 0px;
 text-align: right;
+}
+
+ul.topics li.row .posteravatar {
+  display: none;
+}
+
+ul.topics li.row .lastpostavatar {
+  display: none;
+}
+
+ul.topics li.row .lastpost {
+  padding-top: 4px;
+}
+
+ul.topics li.row.sticky {
+  background-color: #f9f9f9;
 }
