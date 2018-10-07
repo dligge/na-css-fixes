@@ -47,6 +47,10 @@ padding-top: 0px;
 text-align: right;
 }
 
+ul.forums li.row .lastpostavatar {
+  display: none;
+}
+
 ul.topics li.row .posteravatar {
   display: none;
 }
@@ -61,4 +65,16 @@ ul.topics li.row .lastpost {
 
 ul.topics li.row.sticky {
   background-color: #f9f9f9;
+}
+
+ul.topiclist dd.posts {
+  margin-right: 0px;
+}
+
+ul.topiclist li.header dd.lastpost {
+    margin-left: 20px;
+}
+
+ul.topiclist dd.lastpost {
+    padding-left: 0px;
 }
