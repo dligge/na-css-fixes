@@ -1,6 +1,6 @@
 /*
 Source:
-https://raw.githubusercontent.com/mcquin/na-css-fixes/master/css/stylesheet.css
+https://raw.githubusercontent.com/dligge/na-css-fixes/master/css/stylesheet.css
 */
 
 html {
@@ -77,4 +77,8 @@ ul.topiclist li.header dd.lastpost {
 
 ul.topiclist dd.lastpost {
     padding-left: 0px;
+}
+
+#footer .pop-f {
+    display: none;
 }
